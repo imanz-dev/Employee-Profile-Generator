@@ -1,0 +1,15 @@
+print("===== EMPLOYEE PROFILE GENERATOR =====")
+
+name = input("Enter Employee Name: ")
+employee_id = input("Enter Employee ID: ")
+job_title = input("Enter Job Title: ")
+department = input("Enter Department: ")
+salary = input("Enter Monthly Salary: ")
+
+print("\n===== EMPLOYEE PROFILE =====")
+print("Name       :", name)
+print("Employee ID:", employee_id)
+print("Job Title  :", job_title)
+print("Department :", department)
+print("Salary     :", salary)
+print("============================")
